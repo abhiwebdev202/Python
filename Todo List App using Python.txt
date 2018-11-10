@@ -1,0 +1,10 @@
+Todo List App using Python
+Built using Anvil Python Web Builder
+
+Public Link to my App
+
+https://ancient-vigilant-sun-bear.anvil.app
+
+Link to Clone my App
+
+https://anvil.works/build#clone:KJFBSC2FBR34BDJO=WJUAR5NIRKERT5F4VJ7ISFQB
